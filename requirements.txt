@@ -1,7 +1,7 @@
 aiohttp-jinja2==1.1.0
 aiohttp-session==2.7.0
 aiohttp==3.5.3
-aiopg==0.15.0
+aiopg==1.3.3
 aioredis==1.2.0
 async-timeout==3.0.1      # via aiohttp, aioredis
 attrs==18.2.0             # via aiohttp
